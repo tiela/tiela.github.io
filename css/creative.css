@@ -440,3 +440,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+.image-border {
+  border: 2px solid #58b451;
+  padding: 2px;
+}
